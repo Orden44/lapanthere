@@ -54,6 +54,7 @@ a:hover {
 
 .bloc-sm {
     padding: 20px 50px;
+    color: black;
 }
 
 .bg-center,
@@ -123,7 +124,6 @@ a:hover {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black;
 }
 
 .container {
@@ -824,11 +824,11 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
 }
-
 /* Footer */
-footer p, .social {
-    color: black;
+footer p {
+    font-weight: 600;
 }
+
 /* Footer End */
 
 @media (max-width: 1024px) {
