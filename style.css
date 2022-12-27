@@ -824,6 +824,7 @@ blockquote p {
     font-size: 20px;
 }
 figcaption {
+    color: #595959;
     font-size: 20px;
 }
 /* Footer */
